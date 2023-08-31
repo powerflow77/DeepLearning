@@ -5,3 +5,6 @@
 
 > Optimization
 - https://www-ai.cs.tu-dortmund.de/LEHRE/VORLESUNGEN/LOPT/SS16/index.html
+
+> RL
+- https://wikidocs.net/169334
