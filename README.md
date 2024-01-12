@@ -6,3 +6,6 @@
 > Load
 - https://tips.energy.or.kr/egydata/contest.do
 - https://blog.naver.com/chunsa0127/222427763833
+
+> etc.
+- https://sites.google.com/view/cs-159-spring-2020/lectures?authuser=0
