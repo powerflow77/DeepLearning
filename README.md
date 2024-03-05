@@ -9,3 +9,6 @@
 
 > etc.
 - https://sites.google.com/view/cs-159-spring-2020/lectures?authuser=0
+
+> PV
+- https://www.nrel.gov/grid/solar-power-data.html
