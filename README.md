@@ -18,3 +18,4 @@
 - https://github.com/AceBBang/PV-forecasting-data
 - https://github.com/Eudyptla/Time-Series-PV-Forecast-/tree/main/data
 - https://github.com/tribp/pv-forecast
+- https://github.com/jiaxuwen/PV_Energy_Forecasting/tree/main/Data
