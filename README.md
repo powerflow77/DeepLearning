@@ -14,3 +14,4 @@
 
 > PV
 - https://www.nrel.gov/grid/solar-power-data.html
+- https://github.com/hilariouss/LSTM_VST_PVGF/tree/master/data
