@@ -7,6 +7,7 @@
 - https://tips.energy.or.kr/egydata/contest.do
 - https://blog.naver.com/chunsa0127/222427763833
 - https://github.com/pedrolarben/ElectricDemandForecasting-DL
+- https://github.com/w1074098501/Seq2seq-LSTM-load-prediction-with-weather
 
 > etc.
 - https://sites.google.com/view/cs-159-spring-2020/lectures?authuser=0
