@@ -13,10 +13,10 @@
 - https://sites.google.com/view/cs-159-spring-2020/lectures?authuser=0
 
 > PV
+- https://github.com/tribp/pv-forecast
+- https://github.com/AceBBang/PV-forecasting-data
 - https://www.nrel.gov/grid/solar-power-data.html
 - https://github.com/hilariouss/LSTM_VST_PVGF/tree/master/data
-- https://github.com/AceBBang/PV-forecasting-data
-- https://github.com/Eudyptla/Time-Series-PV-Forecast-/tree/main/data
-- https://github.com/tribp/pv-forecast
 - https://github.com/jiaxuwen/PV_Energy_Forecasting/tree/main/Data
+- https://github.com/Eudyptla/Time-Series-PV-Forecast-/tree/main/data
 - https://github.com/ChrisBrown46/SolarEnergyPrediction/tree/master/data
